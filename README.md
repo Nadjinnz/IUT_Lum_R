@@ -13,8 +13,7 @@
 9. [TD5 : Simulation de loi normale](/iut_sd1_r_td5.R)
 10. [TP5 : Joitures et base de données](/iut_sd1_r_tp5.R)
 11. [TD6 : Chercher l'erreur](/iut_sd1_r_td6.R)
-12. [TP6 : EXAMEN](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGwzMTZkNGowM3Y0NTdpN2c2ZnBheXVvNmxobWJsdzFoaHNmZDd2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12vJgj7zMN3jPy/giphy.gif)
-13. [`dataset`](/dataset)
+12. [`dataset`](/dataset)
 
 > [!IMPORTANT]
 > Les resources utilisées : [asardell](https://github.com/asardell/IUT_SD1)
