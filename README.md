@@ -19,4 +19,4 @@
 > [!IMPORTANT]
 > Les resources utilisées : [asardell](https://github.com/asardell/IUT_SD1)
 
-> Git by Franklin
+> Git by Nadji
